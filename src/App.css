@@ -9,22 +9,7 @@
   width: 1200px;
   margin: 0 auto;
 }
-
-.header {
-  grid-area: h;
-  background-color: rgb(85, 156, 85);
-}
-.nav {
-  grid-area: n;
-  background-color: burlywood;
-}
 .content {
   grid-area: c;
-  background-color: cornflowerblue;
-}
-.header img {
-  width: 20px;
-}
-.content__profile-img {
-  max-width: 100%;
+  background-color: rgb(43, 105, 87);
 }
